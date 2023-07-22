@@ -1,0 +1,78 @@
+nav.navbar.navbar-expand-lg {
+    background: #1C1E53;
+}
+section.pricing {
+    padding: 128px 0px;
+}
+.pricing-header h2 {
+    padding-top: 90px;
+    padding-bottom: 16px;
+}
+.pricing-card h4{
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 56px;
+    color: #282938;
+}
+.pricing-card h5{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #282938;
+}
+.pricing-header p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: rgba(40, 41, 56, 0.7);
+    width: 562px;
+    margin: 0px auto;
+}
+.pricing-card {
+    background: #F4F6FC;
+    padding: 64px 48px;
+    margin-top: 64px;
+}
+/* .pricing-card:hover{
+    background: #1C1E53;
+    color: #fff;
+    clip-path: circle(50% at 50% 50%);
+} */
+
+.pricing-card span{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    color: #2405F2;
+}
+.pricing-card p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: rgb(40, 41, 56, 0.7); 
+    padding-bottom: 78px;    
+}
+.pricing-card ul{
+    padding-left: 0;
+}
+.pricing-card ul li{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    padding-bottom: 20px;
+}
+.pricing-card i {
+    color: #97DAAD;
+    padding-right: 12px;
+}
+.pricing-card button{
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+    padding: 16px 77px;
+    background: #282938;
+    border-radius: 100px;
+    border: transparent;
+    margin-top: 79px;
+}

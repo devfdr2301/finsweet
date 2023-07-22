@@ -1,0 +1,58 @@
+
+nav.navbar.navbar-expand-lg {
+    background: #1C1E53;
+}
+section.contact-us {
+    padding: 128px 0px;
+}
+.contact-form {
+    background: #F4F6FC;
+    border-radius: 12px;
+    width: 1061px;
+    height: 640px;
+    margin: 0px auto;
+    margin-top: 64px;
+    padding: 55px 77px 69px;
+}
+.contact-form-header h2 {
+    padding-top: 90px;
+    padding-bottom: 16px;
+}
+.contact-form-header p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: rgba(40, 41, 56, 0.7);
+    width: 562px;
+    margin: 0px auto;
+}
+.contact-form input {
+    padding: 18px 32px;
+    width: 438px;
+    height: 64px;
+}
+input {
+    margin-bottom: 30px;
+}
+#message{
+    width: 908px;
+    height: 138px;
+}
+.contact-form input::placeholder{
+    color: #000 !important;
+}
+label{
+    font-weight: 500;
+    font-size: 18px;
+    color: #000 ;
+    padding-bottom: 8px;
+}
+.send-msg-btn button{
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+    padding: 16px 64px;
+    background: #282938;
+    border-radius: 100px;
+    border: transparent;
+}
